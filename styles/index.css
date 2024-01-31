@@ -1,0 +1,27 @@
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    color: #0A1B32;
+    font-family: "Circular Std";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 160%; /* 48px */
+    letter-spacing: -0.6px;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot{
+    color: #824FF1;
+    font-family: "Circular Std";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 160%;
+    letter-spacing: -0.6px;
+
+}
+
+
+font-family: 'Ramaraja', serif;
+font-family: 'Roboto', sans-serif;
